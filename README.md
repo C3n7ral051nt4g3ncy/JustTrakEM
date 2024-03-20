@@ -5,6 +5,11 @@ Sports Tracker Large Scale Profile Checker
 
 ## Description
 
+I created this script for myself after finding weaknesses on [Sports Tracker](https://www.sports-tracker.com). 
+I had a large list of approx. 1000 names to check and had to automate the process, it would have taken months to do it manually.
+I explained the whole process on this thread on [X](https://twitter.com/OSINT_Tactical/status/1770471606038483270)
+
+
 The **Sports Tracker Profile Checker** is an automated tool designed to check for the existence of user profiles on the Sports Tracker app based on a list of names. 
 It's particularly useful for handling large datasets, making it an excellent resource for researchers, data analysts, and privacy advocates interested in assessing user visibility and privacy on the platform.
 
