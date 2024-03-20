@@ -47,7 +47,10 @@ Before you begin, ensure you have the following installed on your system:
 
    Create a text file named full_names.txt and populate it with full names from companies, organizations, or any list of names you have, each on a new line.
 
-2. **Run the Script**
+   You can test this tool with names that I generated randomly in the ```full_names.txt``` file, if you are happy everything works correctly, you can then put your own names in the file.
+
+
+3. **Run the Script**
 
    ```python3 trak.py```
 
