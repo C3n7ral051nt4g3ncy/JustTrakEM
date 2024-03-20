@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed on your system:
 
 - Python 3.10
 - Brave Browser (or modify the script for your preferred Chromium-based browser)
-- *Please note that the path to the Brave Browser in the scrpt is the usual path on MacOS (Change it according to your own OS and path)
+- *Please note that the path to the Brave Browser in the script is the usual path on MacOS (Change it according to your own OS and path)
 - chromedriver-py is version 122.0.6261.128 as you can see in the requirements.txt file, this can be changed to suite your Brave browser version.
 
 ## Installation
