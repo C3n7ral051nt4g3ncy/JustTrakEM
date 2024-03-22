@@ -3,6 +3,12 @@ Sports Tracker Large Scale Profile Checker
 
 <img src="https://github.com/C3n7ral051nt4g3ncy/JustTrak-EM/assets/104733166/a68c0814-89b0-4ff9-b814-0e32a900fe8b" width='633'>
 
+
+# Just Trak'EM ✓ Video:
+View on large screen for best viewing experience
+
+https://github.com/C3n7ral051nt4g3ncy/JustTrakEM/assets/104733166/3182bb17-0252-418b-ac1f-e07e26491ba7
+
 ## Description
 
 I created this script for myself after finding weaknesses on [Sports Tracker](https://www.sports-tracker.com). 
